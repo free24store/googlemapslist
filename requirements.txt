@@ -1,2 +1,5 @@
+streamlit>=1.29
+streamlit-authenticator>=0.2.0
+pandas
+plotly
 requests>=2.28
-streamlit
